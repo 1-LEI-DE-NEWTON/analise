@@ -1,6 +1,6 @@
 input_sizes:
-  min: 100
-  max: 1000000
+  min: 10000
+  max: 100000
   num_steps: 100
 
 runs_per_size: 10
